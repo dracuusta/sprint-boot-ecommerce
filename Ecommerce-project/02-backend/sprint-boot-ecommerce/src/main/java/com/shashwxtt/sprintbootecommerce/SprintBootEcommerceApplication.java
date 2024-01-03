@@ -9,5 +9,5 @@ public class SprintBootEcommerceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SprintBootEcommerceApplication.class, args);
 	}
-
+	//just checking
 }
